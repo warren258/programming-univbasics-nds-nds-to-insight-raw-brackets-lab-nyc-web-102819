@@ -37,6 +37,6 @@ end
     director_index += 1
   end
 
-  results
+  
 end
 end
